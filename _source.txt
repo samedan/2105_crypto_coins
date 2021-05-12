@@ -1,0 +1,14 @@
+Youtube:
+https://www.youtube.com/watch?v=3m-3qnEXIUk
+
+Github Source:
+https://github.com/Sanjeev-Thiyagarajan/cryptocurrency-tracker
+
+API
+https://www.coingecko.com/fr/api
+
+
+Coins loaded by default
+> WatchListContext.js
+Coins available to be loaded
+> AddCoin.js
